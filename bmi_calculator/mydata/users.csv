@@ -1,2 +1,5 @@
 name,age,height_cm,weight_kg,bmi,category
-aryan ,22,159.0,72.0,28.48,Overweight
+aryan,22,160.0,72.0,28.12,Overweight
+krishna,22,165.0,65.0,23.88,Normal
+ankit,23,168.0,72.0,25.51,Overweight
+mayank,22,162.0,65.0,24.77,Normal
